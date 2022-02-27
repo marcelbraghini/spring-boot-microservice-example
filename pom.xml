@@ -22,7 +22,6 @@
 		<org.mapstruct.version>1.4.2.Final</org.mapstruct.version>
 		<org.projectlombok.version>1.18.22</org.projectlombok.version>
 		<org.springframework.springweb.version>5.3.15</org.springframework.springweb.version>
-
 		<org.apache.maven.plugin>3.9.0</org.apache.maven.plugin>
 		<org.projectlombok.lombok.mapstruct.binding>0.2.0</org.projectlombok.lombok.mapstruct.binding>
 	</properties>
@@ -67,7 +66,6 @@
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter-data-mongodb</artifactId>
 		</dependency>
-
 	</dependencies>
 
 	<build>
@@ -109,5 +107,4 @@
 			</plugin>
 		</plugins>
 	</build>
-
 </project>
